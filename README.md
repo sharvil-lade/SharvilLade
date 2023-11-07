@@ -6,9 +6,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sharvil-lade-905b80256/" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/subham-mahato-b26879257/](https://www.linkedin.com/in/sharvil-lade-905b80256/))
 
 ###
 
