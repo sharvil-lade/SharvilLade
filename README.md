@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sharvillade9917@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/feed/">Linkedin</a></h3>
 <p align="left">
 </p>
 
