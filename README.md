@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sharvil Lade</h1>
+[<h1 align="center">Hi 👋, I'm Sharvil Lade</h1>
 <h3 align="center">I am a web developer, coder and learner.</h3>
 
 - 🌱 I’m currently learning **Web Development, AI/ML.**
@@ -20,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharvil-lade&show_icons=true&theme=cobalt&locale=en" alt="sharvil-lade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharvil-lade&theme=dark" alt="sharvil-lade" /></p>
+](https://www.linkedin.com/in/sharvil-lade-905b80256/)https://www.linkedin.com/in/sharvil-lade-905b80256/
