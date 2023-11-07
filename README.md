@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋,  I'm Sharvil Lade</h1>
+<h1 align="center">Hi👋, I'm Sharvil Lade</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools Used</h3>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Github Stats :</h3>
 
 ###
 
