@@ -6,6 +6,11 @@
 
 ###
 
+🌐 Connect wih me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharvil-lade-905b80256)
+
+###
+
 <h3 align="left">🛠 Language and tools Used</h3>
 
 ###
@@ -47,5 +52,3 @@
 </div>
 
 ###
-<br>
-<h3> Contact me: <p> sharvillade9917@gmail.com </p> </h3>
