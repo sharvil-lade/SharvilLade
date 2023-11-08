@@ -47,5 +47,5 @@
 </div>
 
 ###
-
-<h3> Contact me : sharvillade9917@gmail.com </h3>
+<br>
+<h3> Contact me: <p> sharvillade9917@gmail.com </p> </h3>
