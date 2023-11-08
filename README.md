@@ -6,10 +6,6 @@
 
 ###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/subham-mahato-b26879257/](https://www.linkedin.com/in/sharvil-lade-905b80256/))
-
-###
-
 <h3 align="left">🛠 Language and tools Used</h3>
 
 ###
