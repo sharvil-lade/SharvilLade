@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SharvilLade?tab=repositories](https://github.com/SharvilLade?tab=repositories)
 
-- 📝 I Sometimes write articles on **@Medium**
+- 📝 I Sometimes write articles at **@Medium**
 
-- 💬 Ask me about **Competitive Programming, DSA and Web Development.**
+- 💬 Ask me about **Programming, DSA and Web Development.**
 
 - 📫 How to reach me **sharvillade9917@gmail.com**
 
-- ⚡ Fun fact -> **Still to come**
+- ⚡ Fun fact -> **Still to come.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
