@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sharvil Lade</h1>
 <h3 align="center">Coder, Developer, Blockchain Enthusiast.</h3>
 
-- 🔭 I’m currently working on **Frontend and Backend Development**
+- 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
-
-- 🤝 I’m looking for help with **UI/UX Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SharvilLade?tab=repositories](https://github.com/SharvilLade?tab=repositories)
 
@@ -13,7 +11,7 @@
 
 - 💬 Ask me about **Programming, DSA and Web Development.**
 
-- 📫 How to reach me **sharvillade9917@gmail.com**
+- 📫 Reach me at **sharvillade9917@gmail.com**
 
 - ⚡ Fun fact -> **Still to come.**
 
